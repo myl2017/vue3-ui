@@ -1,13 +1,20 @@
 <template>
-  <div>
-    Doc 页面
-  </div>
+    <div>
+        <Topnav/>
+        <div class="content">
+            <aside>边栏</aside>
+            <main>主内容</main>
+        </div>
+    </div>
 </template>
 
 <script>
-  export default {
-    name: 'Doc'
-  }
+    import Topnav from '../components/Topnav.vue'
+
+    export default {
+        name: 'Doc',
+        components: {Topnav}
+    }
 </script>
 
 <style lang="scss" scoped>
