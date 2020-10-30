@@ -60,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lib/Switch.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="44" selection-end-line="48" selection-end-column="8" />
+            <state relative-caret-position="135">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -162,8 +162,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="768" />
-    <option name="y" value="229" />
+    <option name="x" value="869" />
+    <option name="y" value="213" />
     <option name="width" value="1498" />
     <option name="height" value="1046" />
   </component>
@@ -266,15 +266,15 @@
       <workItem from="1603859967428" duration="2865000" />
       <workItem from="1603930748661" duration="1271000" />
       <workItem from="1603955843767" duration="9803000" />
-      <workItem from="1603971364218" duration="7569000" />
+      <workItem from="1603971364218" duration="8773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21508000" />
+    <option name="totallyTimeSpent" value="22712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="885" y="391" width="1498" height="1046" extended-state="0" />
+    <frame x="869" y="213" width="1498" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
@@ -440,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/Switch.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="44" selection-end-line="48" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
         </state>
       </provider>
     </entry>
