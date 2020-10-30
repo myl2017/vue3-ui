@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c0aee9a-a50f-4926-901d-61660f3648fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/Switch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -57,20 +58,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lib/Switch.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-column="10" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SwitchDemo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="252">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#108#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,14 +160,14 @@
         <option value="$PROJECT_DIR$/src/shims-vue.d.ts" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/index.scss" />
-        <option value="$PROJECT_DIR$/src/components/SwitchDemo.vue" />
         <option value="$PROJECT_DIR$/src/lib/Switch.vue" />
+        <option value="$PROJECT_DIR$/src/components/SwitchDemo.vue" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="869" />
-    <option name="y" value="213" />
+    <option name="x" value="875" />
+    <option name="y" value="388" />
     <option name="width" value="1498" />
     <option name="height" value="1046" />
   </component>
@@ -266,15 +270,15 @@
       <workItem from="1603859967428" duration="2865000" />
       <workItem from="1603930748661" duration="1271000" />
       <workItem from="1603955843767" duration="9803000" />
-      <workItem from="1603971364218" duration="8773000" />
+      <workItem from="1603971364218" duration="9918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22712000" />
+    <option name="totallyTimeSpent" value="23857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="869" y="213" width="1498" height="1046" extended-state="0" />
+    <frame x="1020" y="256" width="1498" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
@@ -431,17 +435,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SwitchDemo.vue">
+    <entry file="file://$PROJECT_DIR$/src/lib/Switch.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-column="10" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/Switch.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/SwitchDemo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="252">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#108#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
