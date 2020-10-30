@@ -68,7 +68,7 @@
         > main {
             flex-grow: 1;
             padding: 16px;
-            background: lightgreen;
+            background: white;
         }
     }
 
@@ -93,7 +93,7 @@
         }
     }
 
-    main {
+    main {> main
         overflow: auto;
     }
 </style>
