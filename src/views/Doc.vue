@@ -30,7 +30,6 @@
   import {inject, Ref} from "vue";
 
   export default {
-    name: "Doc",
     components: {Topnav},
     setup() {
       const menuVisible = inject<Ref<boolean>>("menuVisible"); // get
@@ -93,7 +92,7 @@
         }
     }
 
-    main {> main
+    main {
         overflow: auto;
     }
 </style>
